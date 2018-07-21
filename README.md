@@ -12,7 +12,7 @@ BPIT Org. is the official Open source organization of Bhagwan Parshuram Institut
 
 ## Contributing
 
-When contributing to this repository, please first discuss the change you wish to make via issue,
+When contributing to any repository, please first discuss the change you wish to make via issue,
 email, or any other method with the owners of this repository before making a change. 
 
 Please note we have a code of conduct, please follow it in all your interactions with the project.
@@ -37,7 +37,7 @@ Please take a minute to read [Contributors guide](Contribution.md)
   * Open an issue to the current repository for your improvements or the bug you found.
   * Ask the moderator to assign you the task.
   * Engaging yourself in the task which is assigned to other individual is strictly discoureged.
-  * Do engage in a issue or a tak only if you feel you can do it.
+  * Do engage in a issue or a task only if you feel you can do it.
   * Once you are done doing these open a pull request and get your code verified and merged through the moderator.
   * Once the pull request has been merged send me your details of enrollment and the pull request to get your invitaion to the community.
   
