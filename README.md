@@ -32,7 +32,7 @@ Please take a minute to read [Contributors guide](Contribution.md)
 
 * For Newbies to git.
   * Search for the project of your interest.
-  * Clone the repository to your machine.
+  * Fork the repository.
   * Go through the project and try to spot a bug or suggest any improvement. Else work on current issues of the repository if any. 
   * Open an issue to the current repository for your improvements or the bug you found.
   * Ask the moderator to assign you the task.
