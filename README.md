@@ -8,7 +8,7 @@ BPIT Org. is the official Open source organization of Bhagwan Parshuram Institut
 * For a student you must be currently enrolled into any of the program/course at BPIT.
 * For People who are not a part of BPIT are also most welcome to contribute to us. Since we are an internal college organisation      therefore the privilage of getting into the community cannot be granted. Still you become a part of our organization by joining the slack community.
 
-# Contribution Guidlines
+# Contribution Guidelines
 
 ## Contributing
 
